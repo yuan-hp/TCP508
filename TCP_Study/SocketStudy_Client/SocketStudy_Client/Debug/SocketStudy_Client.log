@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SocketStudy_Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  tcp508n.cpp
+  SocketStudy_Client.vcxproj -> E:\Yhp\Prj\VS_Prj\TCP508N\TCP_Study\SocketStudy_Client\Debug\TCP508Ctl.exe
+  SocketStudy_Client.vcxproj -> E:\Yhp\Prj\VS_Prj\TCP508N\TCP_Study\SocketStudy_Client\Debug\TCP508Ctl.pdb (Partial PDB)
